@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(39, 52, 77);
+
+}
+.parent{
+background-color: rgb(33, 56, 99);
+border-color: rgb(33, 56, 99);
+text-align: center;
+justify-content: center;
+height: 550px;
+max-width: 300px;
+margin-left: 400px;
+margin-top: 40px;
+border-radius: 10px;
+}
+
+h3{ 
+    color: aqua;
+    font-size: 20px;
+    margin-top: 80px;
+}
+h4{
+    color: darkgray;
+    text-align: center;
+    justify-items: center;
+    font-size: bold;
+    text-align: justify;
+    margin-left: 40px;
+
+}
+ img{
+    margin-top: 30px;
+
+}
+
+.img{
+    float: left;
+    margin-left: 30px;
+    clear: both;
+    text-align: right;
+    display: flex;
+    border-radius: 50px solid;
+    border-color: #fff;
+}
+
+h6{
+    float: right;
+    color: aquamarine;
+    font-size: 15px;
+
+    
+}
